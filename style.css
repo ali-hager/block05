@@ -1,0 +1,66 @@
+h1 {
+    padding: 10px;
+    text-align: center;
+    background: #bc1a6b;
+    color: white;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: auto;
+    margin-top: auto;
+}
+
+#intro {
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  font-size: smaller;
+}
+
+h2 {
+  font-size: 25px;
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  text-indent: 3%;
+  color:rgb(27, 32, 37)
+}
+
+.animal-pic {
+  max-width: 100%;
+  height: auto;
+}
+
+section {
+  font-size: 18px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+#Bears {
+  border-style: dashed;
+  border-color:teal;
+  background-color: plum;
+}
+
+#Giraffes {
+  border-style: dotted;
+  border-color:royalblue;
+  background-color: lightpink;
+  margin-top:4%
+}
+
+#Lions {
+  border-style:ridge;
+  border-color: rgb(187, 60, 18);
+  margin-top: 4%;
+  background-color: rgb(108, 133, 108);
+}
+
+#Monkeys {
+  border-style:double;
+  border-color:goldenrod;
+  background-color: gray;
+  margin-top: 4%;
+}
+
+#Alligators {
+  border-style:double;
+  border-color:rgb(2, 40, 13);
+  background-color: rgb(224, 157, 157);
+  margin-top: 4%;
+}
